@@ -1,7 +1,5 @@
 ## 水果库存系统（Fruit-inventory-system）
 
-[toc]
-
 **PS**：IDEA中可以直接运行，终端输出，无浏览器或本地界面。
 
 #### 1 开发环境
